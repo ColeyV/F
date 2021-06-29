@@ -477,7 +477,7 @@ table a, #comments a{background-color:inherit;}
 /* extra
 ------------------------------------------------------------------------------------------------------------------ */
 
-.about-spacing{padding-top: 110px; padding-bottom: 50px;}
-.about-spacing2{padding-top: 20px; padding-bottom: 100px;}
+.about-spacing{padding-top: 110px; padding-bottom: 100px;}
+.about-spacing2{padding-top: 20px; padding-bottom: 160px;}
 .about-spacing3{padding-top: 80px; padding-bottom: 100px;}
 .space{align-items: center; text-align: center;}
